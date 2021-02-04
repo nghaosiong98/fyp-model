@@ -1,5 +1,5 @@
 opencv-python
-numpy==1.19.3
+numpy
 tensorflow
 scikit-learn
 pandas
